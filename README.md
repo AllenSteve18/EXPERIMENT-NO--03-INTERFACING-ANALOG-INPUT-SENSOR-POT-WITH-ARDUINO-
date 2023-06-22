@@ -90,5 +90,7 @@ int potMesure = analogRead(A5);
 
 ```
 ### Simulation output: 
+![2](https://github.com/AllenSteve18/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/131678601/e9cfc37f-5c22-41af-be85-49dba6623fce)
+
 ### RESULT: 
 Arduino uno analog input functioning is learned and interfaced with digital input switch .
